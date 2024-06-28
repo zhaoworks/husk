@@ -1,0 +1,8 @@
+{
+  "name": "@zhaoworks/husk",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
